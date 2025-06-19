@@ -35,10 +35,13 @@
 
 
 
-### 📫 На связи!
+ 📫 **Связаться со мной:**
 <p>
-  ✉️ <a href="mailto:tanaev.yura@mail.ru">Email</a> |
-  📬 <a href="https://t.me/@Tanaev_Yury">Telegram</a> 
+
+📧 Email: [tanaev.yura@mail.ru](mailto:tanaev.yura@mail.ru)
+
+💬 Telegram: [@Tanaev_Yury](https://t.me/@Tanaev_Yury)
+
 </p>
 
 </div>
